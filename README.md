@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+## Sorting
+|  |
+| ------- |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 <!---LeetCode Topics End-->
