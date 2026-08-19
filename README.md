@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Bit Manipulation
 |  |
@@ -51,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
