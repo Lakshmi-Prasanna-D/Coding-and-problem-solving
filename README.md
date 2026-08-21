@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting Sort
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0560-subarray-sum-equals-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
