@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Counting Sort
@@ -78,5 +79,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0643-maximum-average-subarray-i) |
+## String
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
