@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
