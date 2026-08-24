@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
 |  |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
