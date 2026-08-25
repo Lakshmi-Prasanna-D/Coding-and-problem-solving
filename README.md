@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
+| [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
 |  |
