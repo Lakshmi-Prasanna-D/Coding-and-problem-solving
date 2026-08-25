@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Database
 |  |
 | ------- |
