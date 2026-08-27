@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
