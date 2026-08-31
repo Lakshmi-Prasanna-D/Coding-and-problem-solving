@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Brainteaser
 |  |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
