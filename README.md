@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3904-smallest-stable-index-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0560-subarray-sum-equals-k) |
+| [3904-smallest-stable-index-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
 | ------- |
