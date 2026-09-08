@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3870-count-commas-in-range) |
 ## Brainteaser
 |  |
 | ------- |
