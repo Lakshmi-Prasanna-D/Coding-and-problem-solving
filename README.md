@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
