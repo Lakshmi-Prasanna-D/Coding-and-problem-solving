@@ -166,6 +166,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
