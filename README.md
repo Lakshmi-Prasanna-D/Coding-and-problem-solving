@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
