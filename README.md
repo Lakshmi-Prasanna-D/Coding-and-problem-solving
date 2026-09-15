@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0021-merge-two-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
