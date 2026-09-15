@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0169-majority-element) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
