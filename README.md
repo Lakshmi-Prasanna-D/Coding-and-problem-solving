@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0856-score-of-parentheses) |
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 ## Database
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -197,4 +199,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
