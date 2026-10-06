@@ -142,14 +142,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
 ## Simulation
 |  |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0856-score-of-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
