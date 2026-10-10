@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0074-search-a-2d-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
