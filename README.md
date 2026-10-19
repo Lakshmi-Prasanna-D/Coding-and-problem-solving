@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bracket Sequences
 |  |
 | ------- |
