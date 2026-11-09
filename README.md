@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0561-array-partition) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1137-n-th-tribonacci-number) |
@@ -218,4 +220,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
