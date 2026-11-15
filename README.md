@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -128,12 +129,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0076-minimum-window-substring) |
 | [0392-is-subsequence](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0678-valid-parenthesis-string) |
