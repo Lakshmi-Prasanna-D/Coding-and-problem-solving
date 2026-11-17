@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0213-house-robber-ii) |
 | [0283-move-zeroes](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0200-number-of-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0416-partition-equal-subset-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
