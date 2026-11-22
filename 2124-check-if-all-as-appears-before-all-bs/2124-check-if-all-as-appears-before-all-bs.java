@@ -1,7 +1,7 @@
 class Solution {
     public boolean checkString(String s) {
         if(s.length()<=1)return true;
-        boolean b=false;
+       
       int i=0;
       int n=s.length();
       while(i<n && s.charAt(i)=='a'){
