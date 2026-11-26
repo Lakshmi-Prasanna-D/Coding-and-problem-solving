@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1025-divisor-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/1137-n-th-tribonacci-number) |
+| [3360-stone-removal-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3870-count-commas-in-range) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Lakshmi-Prasanna-D/Coding-and-problem-solving/tree/master/3360-stone-removal-game) |
 ## Divide and Conquer
 |  |
 | ------- |
